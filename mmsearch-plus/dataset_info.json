@@ -1,0 +1,58 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "img_4": {
+      "_type": "Image"
+    },
+    "difficulty": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "img_2": {
+      "_type": "Image"
+    },
+    "video_url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "num_images": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "img_1": {
+      "_type": "Image"
+    },
+    "arxiv_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subtask": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "category": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "img_5": {
+      "_type": "Image"
+    },
+    "img_3": {
+      "_type": "Image"
+    },
+    "answer": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
